@@ -1,9 +1,7 @@
 pragma solidity ^0.4.19;
 
 // <ORACLIZE_API>
-
 /*
-d
 Copyright (c) 2015-2016 Oraclize SRL
 Copyright (c) 2016 Oraclize LTD
 
